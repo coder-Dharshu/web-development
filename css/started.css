@@ -1,0 +1,40 @@
+/* h1{
+    color: green;
+    background-color: black;
+}
+p{
+    color: rgb(23, 167, 230);
+} */
+h2{
+    color: orange;
+    text-align:center;
+    font-size: 85px;
+}
+p{
+    color: white;
+    background-color: black;
+    font-weight: 550;
+    text-decoration: wavy green underline;
+    line-height: 3;
+    letter-spacing: 8px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+button{
+    /* color: white; */
+    color: #ffffff;
+    background-color: blue;
+    
+}
+
+h1{
+    font-family: League spartan;
+    color: #ffa511;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: rgb(5, 83, 151)double underline;
+    font-weight: bold;
+    text-transform: uppercase;
+}
